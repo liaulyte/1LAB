@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name" translatable="false">Hello world</string>
     <string name="button" translatable="false">Button</string>
+    <string name="changed_label_caption">Text was changed!</string>
+    <string name="button2">Button2</string>
+    <string name="textview">TextView</string>
 </resources>
